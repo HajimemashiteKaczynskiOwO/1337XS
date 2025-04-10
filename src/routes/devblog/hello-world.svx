@@ -1,0 +1,19 @@
+---
+title: Hello World...
+date: "2025-04-01"
+---
+
+# Welcome to my first post!
+
+## Subheading Example
+
+This is **bold text** and this is *italic*.
+
+- List item 1
+- List item 2
+- List item 3
+
+```js
+function hello() {
+  console.log('Hello World!');
+}
